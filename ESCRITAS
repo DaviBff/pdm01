@@ -1,0 +1,22 @@
+O é a classe R em um projeto android?
+
+A classe R é uma classe importante em projetos Android que é criada automaticamente pelo sistema. Ela contém um conjunto de constantes que representam os recursos do aplicativo, como imagens, layouts, cores, strings e outros recursos.
+
+O que Activity no Android, para que serve?
+No Android, uma Activity é um componente do aplicativo que representa uma única tela com interface do usuário. Ela é responsável por interagir com o usuário e exibir a interface gráfica do aplicativo.
+
+O que é o arquivo Manifesto em um projeto Android e quais informações podem ser declaradas nele?
+O arquivo Manifesto em um projeto Android é um arquivo XML obrigatório que contém informações sobre o aplicativo e suas configurações. Ele é fundamental para o funcionamento de um aplicativo Android e é o primeiro arquivo que o sistema lê ao iniciar o aplicativo.
+
+O que são os níveis de API de uma aplicação Android e o quer implica uma aplicação utilizar uma
+determinada API?
+Os níveis de API em uma aplicação Android se referem às diferentes versões da plataforma Android que a aplicação é capaz de suportar.
+Ao utilizar uma determinada API, uma aplicação pode acessar os recursos e funcionalidades específicos que estão disponíveis nessa versão do Android. Por exemplo, uma aplicação que utiliza a API 23 pode acessar o sistema de permissões de aplicativos introduzido nessa versão do Android, enquanto uma aplicação que utiliza a API 24 pode acessar o recurso de tela dividida adicionado a essa versão.
+É importante lembrar que quanto maior o nível de API compatível com um aplicativo, maior o número de dispositivos nos quais ele pode ser executado. No entanto, o uso de APIs mais recentes também pode limitar a base de usuários do aplicativo, pois nem todos os dispositivos suportam as versões mais recentes do Android.
+
+O que é constraintLayout no android? Para que serve, cite ao menos dois exemplos de uso com posicionamento de um componente qualquer. 
+ConstraintLayout é um layout avançado disponível no Android que permite posicionar componentes da interface do usuário de forma mais flexível e eficiente do que outros layouts padrão, como LinearLayout e RelativeLayout.
+Duas formas de posicionar um componete:
+Posicionamento em relação à borda
+Posicionamento em relação a outros componentes
+
